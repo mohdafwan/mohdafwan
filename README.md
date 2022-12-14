@@ -12,7 +12,7 @@ Talking about my personal stuff:
 - ✨ I'm learning Flutter, DSA etc.
 - 🎮 APEX LEGENDS PLAYER
 - ✉️  You can contact me at [shaikhafwan786@gmail.com](mailto:shaikhafwan786@gmail.com)
-- 
+
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
 -----------------------
 ### My Skills
