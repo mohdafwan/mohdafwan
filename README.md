@@ -11,7 +11,6 @@ Talking about my personal stuff:
 - 💻 The tech I'm interested Flutter/Robotics etc.
 - ✨ I'm learning Flutter, DSA etc.
 - 🎮 APEX LEGENDS PLAYER
-- ✉️  You can contact me at [3xysha@gmail.com](mailto:3xysha@gmail.com)
 
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
 -----------------------
