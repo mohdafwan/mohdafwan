@@ -6,12 +6,6 @@ A Student & Developer (I fell in Love with Flutter😍)
 #
 Flutter Forever 💙
 
-Talking about my personal stuff:
-
-- 💻 The tech I'm interested Flutter/Robotics etc.
-- ✨ I'm learning Flutter, DSA etc.
-- 🎮 APEX LEGENDS PLAYER
-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohdAfwan&theme=dark&hide_border=true&border_radius=8.8&date_format=%5BY.%5Dn.j)]()
 
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
