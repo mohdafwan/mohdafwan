@@ -10,7 +10,7 @@ I'm fullstack developer based in india, and My passion lies in crafting user exp
 
 **Backend Development:** `Node.js` `Express.js` `Golang Gorilla` `GraphQL` `Firebase` 
 
-##🔥My Stats :- 
+## 🔥My Stats :- 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohdAfwan&theme=dark&hide_border=true&border_radius=8.8&date_format=%5BY.%5Dn.j)]()
 
