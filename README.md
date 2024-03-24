@@ -12,6 +12,7 @@ Talking about my personal stuff:
 - ✨ I'm learning Flutter, DSA etc.
 - 🎮 APEX LEGENDS PLAYER
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohdAfwan&theme=dark&hide_border=true&border_radius=8.8&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
 -----------------------
 ### My Skills
