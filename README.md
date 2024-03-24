@@ -8,8 +8,12 @@ I'm fullstack developer based in india, and My passion lies in crafting user exp
 
 ## 📦 Toolbox
 **Frontend Development:** `React` `Next.js` `Tailwind` `Material-UI` `Framer-Motion` `Gsap`
+
 **Version Control:** `Git`
+
 **Backend Development:** `Node.js` `Express.js` `Golang Gorilla` `GraphQL` `Firebase` 
+
+# My Stats 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohdAfwan&theme=dark&hide_border=true&border_radius=8.8&date_format=%5BY.%5Dn.j)]()
 
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
