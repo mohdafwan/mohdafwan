@@ -15,7 +15,7 @@ I'm fullstack developer based in india, and My passion lies in crafting user exp
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohdAfwan&theme=dark&hide_border=true&border_radius=8.8&date_format=%5BY.%5Dn.j)]()
 
 ## 💡💻📝 Programming Languages & Technologies:
-![My Skills](https://skillicons.dev/icons?i=cpp,flutter,js,html,css,sass,tailwind,dart,materialui,expressjs,mongodb,react,nodejs,)
+![My Skills](https://skillicons.dev/icons?i=cpp,flutter,js,html,go,css,sass,tailwind,dart,materialui,expressjs,mongodb,react,nodejs,)
 ## 🔧 Tools:
 ![My Skills](https://skillicons.dev/icons?i=postman,github,git,linux,vite,vscode,figma,mongoose)
 <!-- - 🖥️  [S.E.E.M.E](http://devafwan.tech)☜ -->
